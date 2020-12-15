@@ -36,12 +36,6 @@ GitHub: [@Varun2323](https://github.com/Varun2323)
 
 LinkedIn: [Varun Sharma](https://www.linkedin.com/in/varun-sharma-82b29b82/)
 
-👤 Ahmed BEn Jmii
-
-GitHub: [@Ahmed](https://github.com/Ahmedben)
-
-Linkedin: [Vanessa Aoki](https://www.linkedin.com/in/ahmedbenjmii/)
-
 
 ##  Contributing
 
