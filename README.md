@@ -28,8 +28,6 @@
 
 ## Authors
 
-## Authors
-
 👤 Varun Sharma
 
 GitHub: [@Varun2323](https://github.com/Varun2323)
